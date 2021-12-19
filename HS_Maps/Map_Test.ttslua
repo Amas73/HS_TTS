@@ -1,0 +1,15 @@
+mapData = {}
+mapData['test'] = {}
+mapData['test'][1] = {Type = '24-Hex Grass', pos = {-4.45500087738037, 0.750373125076294, -4.28682565689087}, dir = {0.000195074171642773, -0.00152313115540892, 0.000784909701906145}}
+mapData['test'][2] = {Type = '24-Hex Grass', pos = {4.4549994468689, 0.750495553016663, -4.28682565689087}, dir = {0.000187195764738135, -0.0014992255019024, 0.000747152720578015}}
+mapData['test'][3] = {Type = '24-Hex Grass', pos = {1.10417604446411E-05, 1.04482936859131, -3.4294970035553}, dir = {0.000438076647697017, -0.00150263856630772, 0.000876630248967558}}
+
+--[[ The onLoad event is called after the game save finishes loading. --]]
+function onLoad()
+    table.insert(mapList, "test")
+end
+
+--[[ The onUpdate event is called once per frame. --]]
+function onUpdate ()
+    --[[ print('onUpdate loop!') --]]
+end
