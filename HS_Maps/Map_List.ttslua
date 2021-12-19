@@ -1,0 +1,26 @@
+#include Map_Grundys_Grave
+#include Map_Conflict_Chenobyl
+#include Map_AbandonedMissileBase
+#include Map_AldridgeChemicals
+#include Map_AlkaliLake
+#include Map_AnotherDayattheOffice
+#include Map_CountryRoad
+#include Map_CrashLanding
+#include Map_DarkDimension
+#include Map_GreenLanternMogo
+#include Map_HYDRABaseGehenna
+#include Map_IcyRoad
+#include Map_IslandPlaneCrash
+#include Map_IvysGreenhouse
+#include Map_MartianWarZone
+#include Map_XMarkstheSpot
+#include Map_MoonBaseAlpha
+#include Map_MountainSpring
+#include Map_CarnivalofCarnage
+#include Map_MuspelheimMelee
+#include Map_SewerLabyrinth
+#include Map_CityPark
+#include Map_CornerHighRise
+
+function onLoad()
+end
